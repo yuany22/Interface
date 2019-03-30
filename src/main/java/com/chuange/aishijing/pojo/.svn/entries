@@ -1,0 +1,76 @@
+10
+
+dir
+480
+http://192.168.31.139:8043/svn/aisj/interface/src/main/java/com/chuange/aishijing/pojo
+http://192.168.31.139:8043/svn/aisj
+
+
+
+2019-03-08T04:28:01.471703Z
+476
+asjliye
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+37ead228-83d3-9d4a-9b60-71de2ff3855a
+
+castmanage
+dir
+
+castsystem
+dir
+
+checkSystem
+dir
+
+classessys
+dir
+
+filemanager
+dir
+
+login
+dir
+
+operatemanage
+dir
+
+ordermanage
+dir
+
+recommendmanage
+dir
+
+sysmanage
+dir
+
+teachersys
+dir
+
+tree
+dir
+
+uploadpicture
+dir
+
+userManage
+dir
+
+videoSystem
+dir
+
+wxpay
+dir
+

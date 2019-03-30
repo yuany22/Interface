@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/aisj/!svn/ver/470/interface/src/main/java/com/chuange/aishijing/dao/vedioManage
+END
+VedioScoreDao.java
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/aisj/!svn/ver/445/interface/src/main/java/com/chuange/aishijing/dao/vedioManage/VedioScoreDao.java
+END
+VedioComentManageDao.java
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/aisj/!svn/ver/444/interface/src/main/java/com/chuange/aishijing/dao/vedioManage/VedioComentManageDao.java
+END
+VedioManageDao.java
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/aisj/!svn/ver/470/interface/src/main/java/com/chuange/aishijing/dao/vedioManage/VedioManageDao.java
+END

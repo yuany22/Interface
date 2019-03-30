@@ -1,0 +1,59 @@
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/aisj/!svn/ver/469/interface/src/main/java/com/chuange/aishijing/dao/usermanage
+END
+ReportDao.java
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/aisj/!svn/ver/398/interface/src/main/java/com/chuange/aishijing/dao/usermanage/ReportDao.java
+END
+EducationDao.java
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/aisj/!svn/ver/419/interface/src/main/java/com/chuange/aishijing/dao/usermanage/EducationDao.java
+END
+UserLablesDao.java
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/aisj/!svn/ver/398/interface/src/main/java/com/chuange/aishijing/dao/usermanage/UserLablesDao.java
+END
+SealInfoDao.java
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/aisj/!svn/ver/398/interface/src/main/java/com/chuange/aishijing/dao/usermanage/SealInfoDao.java
+END
+UserFansDao.java
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/aisj/!svn/ver/469/interface/src/main/java/com/chuange/aishijing/dao/usermanage/UserFansDao.java
+END
+SealDao.java
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/aisj/!svn/ver/398/interface/src/main/java/com/chuange/aishijing/dao/usermanage/SealDao.java
+END
+UserMoviesDao.java
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/aisj/!svn/ver/398/interface/src/main/java/com/chuange/aishijing/dao/usermanage/UserMoviesDao.java
+END
+VedioReportDao.java
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/aisj/!svn/ver/398/interface/src/main/java/com/chuange/aishijing/dao/usermanage/VedioReportDao.java
+END
+UserManageDao.java
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/aisj/!svn/ver/469/interface/src/main/java/com/chuange/aishijing/dao/usermanage/UserManageDao.java
+END

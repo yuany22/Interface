@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/aisj/!svn/ver/398/interface/src/main/java/com/chuange/aishijing/vo/servicevo/CastManagervo
+END
+CastPictureResponse.java
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/svn/aisj/!svn/ver/398/interface/src/main/java/com/chuange/aishijing/vo/servicevo/CastManagervo/CastPictureResponse.java
+END
+CastManagerResponse.java
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/svn/aisj/!svn/ver/398/interface/src/main/java/com/chuange/aishijing/vo/servicevo/CastManagervo/CastManagerResponse.java
+END
+AddCastManagerResponse.java
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/svn/aisj/!svn/ver/398/interface/src/main/java/com/chuange/aishijing/vo/servicevo/CastManagervo/AddCastManagerResponse.java
+END
+TeacherManagerResponse.java
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/svn/aisj/!svn/ver/398/interface/src/main/java/com/chuange/aishijing/vo/servicevo/CastManagervo/TeacherManagerResponse.java
+END
+CastMemberResponse.java
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/svn/aisj/!svn/ver/398/interface/src/main/java/com/chuange/aishijing/vo/servicevo/CastManagervo/CastMemberResponse.java
+END
+CastManagerResponseVo.java
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/svn/aisj/!svn/ver/398/interface/src/main/java/com/chuange/aishijing/vo/servicevo/CastManagervo/CastManagerResponseVo.java
+END
+TeacherManagerResponseVO.java
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/svn/aisj/!svn/ver/398/interface/src/main/java/com/chuange/aishijing/vo/servicevo/CastManagervo/TeacherManagerResponseVO.java
+END
+FindCastByIdResponseVO.java
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/svn/aisj/!svn/ver/398/interface/src/main/java/com/chuange/aishijing/vo/servicevo/CastManagervo/FindCastByIdResponseVO.java
+END

@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/aisj/!svn/ver/449/interface/src/main/java/com/chuange/aishijing/dao/shootingpage
+END
+ShootingPageDao.java
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/aisj/!svn/ver/398/interface/src/main/java/com/chuange/aishijing/dao/shootingpage/ShootingPageDao.java
+END
+HotRoleDao.java
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/aisj/!svn/ver/449/interface/src/main/java/com/chuange/aishijing/dao/shootingpage/HotRoleDao.java
+END
+MovieAudioDao.java
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/aisj/!svn/ver/398/interface/src/main/java/com/chuange/aishijing/dao/shootingpage/MovieAudioDao.java
+END
+HotCastDao.java
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/aisj/!svn/ver/449/interface/src/main/java/com/chuange/aishijing/dao/shootingpage/HotCastDao.java
+END

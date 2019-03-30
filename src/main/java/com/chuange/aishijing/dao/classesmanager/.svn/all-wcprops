@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/aisj/!svn/ver/466/interface/src/main/java/com/chuange/aishijing/dao/classesmanager
+END
+LoveClassesDao.java
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/aisj/!svn/ver/465/interface/src/main/java/com/chuange/aishijing/dao/classesmanager/LoveClassesDao.java
+END
+SmallChapterDao.java
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/aisj/!svn/ver/398/interface/src/main/java/com/chuange/aishijing/dao/classesmanager/SmallChapterDao.java
+END
+ClassesManagerDao.java
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/aisj/!svn/ver/466/interface/src/main/java/com/chuange/aishijing/dao/classesmanager/ClassesManagerDao.java
+END
+ClassesOrderDao.java
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/aisj/!svn/ver/466/interface/src/main/java/com/chuange/aishijing/dao/classesmanager/ClassesOrderDao.java
+END
+ClassCommentsDao.java
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/aisj/!svn/ver/464/interface/src/main/java/com/chuange/aishijing/dao/classesmanager/ClassCommentsDao.java
+END
+BigChapterDao.java
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/aisj/!svn/ver/398/interface/src/main/java/com/chuange/aishijing/dao/classesmanager/BigChapterDao.java
+END

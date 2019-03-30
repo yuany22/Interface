@@ -1,0 +1,74 @@
+10
+
+dir
+480
+http://192.168.31.139:8043/svn/aisj/interface/src/main/java/com/chuange/aishijing/vo
+http://192.168.31.139:8043/svn/aisj
+
+
+
+2019-03-08T04:29:46.594716Z
+479
+asjliye
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+37ead228-83d3-9d4a-9b60-71de2ff3855a
+
+CommonResponseVO.java
+file
+
+
+
+
+2019-02-21T05:01:37.000000Z
+fe5ce2f5bcf76cb3f96fe60889116e35
+2019-02-21T05:01:00.443866Z
+398
+asjliye
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+1779
+
+classesvo
+dir
+
+interactiveinformationvo
+dir
+
+servicevo
+dir
+
+shotvo
+dir
+

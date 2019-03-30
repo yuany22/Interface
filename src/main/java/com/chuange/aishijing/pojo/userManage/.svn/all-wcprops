@@ -1,0 +1,59 @@
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/aisj/!svn/ver/476/interface/src/main/java/com/chuange/aishijing/pojo/userManage
+END
+UserSealInformationLog.java
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/aisj/!svn/ver/398/interface/src/main/java/com/chuange/aishijing/pojo/userManage/UserSealInformationLog.java
+END
+UserReport.java
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/aisj/!svn/ver/398/interface/src/main/java/com/chuange/aishijing/pojo/userManage/UserReport.java
+END
+UserEducation.java
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/aisj/!svn/ver/415/interface/src/main/java/com/chuange/aishijing/pojo/userManage/UserEducation.java
+END
+UserFans.java
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/aisj/!svn/ver/476/interface/src/main/java/com/chuange/aishijing/pojo/userManage/UserFans.java
+END
+User.java
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/aisj/!svn/ver/489/interface/src/main/java/com/chuange/aishijing/pojo/userManage/User.java
+END
+UserLable.java
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/aisj/!svn/ver/398/interface/src/main/java/com/chuange/aishijing/pojo/userManage/UserLable.java
+END
+VideoAndCommentReportManager.java
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svn/aisj/!svn/ver/441/interface/src/main/java/com/chuange/aishijing/pojo/userManage/VideoAndCommentReportManager.java
+END
+UserMovie.java
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/aisj/!svn/ver/398/interface/src/main/java/com/chuange/aishijing/pojo/userManage/UserMovie.java
+END
+UserSealInformation.java
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/aisj/!svn/ver/398/interface/src/main/java/com/chuange/aishijing/pojo/userManage/UserSealInformation.java
+END

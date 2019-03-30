@@ -1,0 +1,83 @@
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/aisj/!svn/ver/491/interface/src/main/java/com/chuange/aishijing/controller
+END
+SmsDemo.java
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/aisj/!svn/ver/490/interface/src/main/java/com/chuange/aishijing/controller/SmsDemo.java
+END
+CastController.java
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/aisj/!svn/ver/496/interface/src/main/java/com/chuange/aishijing/controller/CastController.java
+END
+HomepageController.java
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/aisj/!svn/ver/496/interface/src/main/java/com/chuange/aishijing/controller/HomepageController.java
+END
+InteractiveInformation.java
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/aisj/!svn/ver/462/interface/src/main/java/com/chuange/aishijing/controller/InteractiveInformation.java
+END
+WxShareController.java
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/aisj/!svn/ver/496/interface/src/main/java/com/chuange/aishijing/controller/WxShareController.java
+END
+SetUpController.java
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/aisj/!svn/ver/462/interface/src/main/java/com/chuange/aishijing/controller/SetUpController.java
+END
+UserController.java
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/aisj/!svn/ver/496/interface/src/main/java/com/chuange/aishijing/controller/UserController.java
+END
+ShotController.java
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/aisj/!svn/ver/496/interface/src/main/java/com/chuange/aishijing/controller/ShotController.java
+END
+AlipayController.java
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/aisj/!svn/ver/496/interface/src/main/java/com/chuange/aishijing/controller/AlipayController.java
+END
+LoginController.java
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/aisj/!svn/ver/491/interface/src/main/java/com/chuange/aishijing/controller/LoginController.java
+END
+NotifyController.java
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/aisj/!svn/ver/496/interface/src/main/java/com/chuange/aishijing/controller/NotifyController.java
+END
+CheckController.java
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/aisj/!svn/ver/496/interface/src/main/java/com/chuange/aishijing/controller/CheckController.java
+END
+ClassesController.java
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/aisj/!svn/ver/462/interface/src/main/java/com/chuange/aishijing/controller/ClassesController.java
+END

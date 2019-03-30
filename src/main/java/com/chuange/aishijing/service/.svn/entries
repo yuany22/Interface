@@ -1,0 +1,64 @@
+10
+
+dir
+489
+http://192.168.31.139:8043/svn/aisj/interface/src/main/java/com/chuange/aishijing/service
+http://192.168.31.139:8043/svn/aisj
+
+
+
+2019-03-18T10:40:45.841896Z
+487
+asjliye
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+37ead228-83d3-9d4a-9b60-71de2ff3855a
+
+InteractiveInformation
+dir
+
+alipay
+dir
+
+castManage
+dir
+
+checkSystem
+dir
+
+classes
+dir
+
+homepage
+dir
+
+impl
+dir
+
+login
+dir
+
+setup
+dir
+
+shot
+dir
+
+systemManage
+dir
+
+userManage
+dir
+
